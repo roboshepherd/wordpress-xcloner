@@ -1,0 +1,1 @@
+ --exclude=./administrator/backups/backup_2010-12-23_23-43_localhost-sql-nodrop.tar  -X /var/www/wordpress/administrator/backups/.excl_tar
